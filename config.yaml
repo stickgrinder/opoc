@@ -1,0 +1,46 @@
+baseurl: "http://tlp.insercoingames.com/"
+relativeURLs: false
+title: "On Adventure Games design"
+languageCode: "en-us"
+theme: "hugo-opoc"
+
+disqusShortname: "*****"
+paginate: 5
+
+taxonomies:
+  tag: "tags"
+  tutorial: "tutorials"
+
+params:
+  # Render the rotating globe in the sidebar
+  showglobe: false
+
+  # Google Analytics
+  #analytics = "SHORT-CODE-HERE"
+
+  # Social buttons for sidebar
+  github: "https://github.com/icgtlp"
+  twitter: "https://twitter.com/icgtlp"
+  email: "stickgrinder@gmail.com"
+
+  # Header Title for the main page
+  header: "Chronicles of an homebrew P&C Adventure Game"
+
+  # Sidebar profile picture
+  profilepic: "img/icglogo.png"
+
+  # Title/subtitle for the sidebar
+  title: "Our Point on clicks"
+  subtitle: "An AG crafting journal"
+
+  # Nav links below the profile picture
+  navlinks:
+    -
+      name: "About"
+      url: "about/"
+    - 
+      name: "Blog"
+      url: "post/"
+    - 
+      name: "Tutorials"
+      url: "tutorial/"

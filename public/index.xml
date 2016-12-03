@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Last Profecy - Making of</title>
+    <link>http://tlp.insercoingames.com/index.xml</link>
+    <description>Recent content on The Last Profecy - Making of</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Nov 2016 22:35:51 +0100</lastBuildDate>
+    <atom:link href="http://tlp.insercoingames.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>starting point</title>
+      <link>http://tlp.insercoingames.com/post/starting-point/</link>
+      <pubDate>Wed, 30 Nov 2016 22:35:51 +0100</pubDate>
+      
+      <guid>http://tlp.insercoingames.com/post/starting-point/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
