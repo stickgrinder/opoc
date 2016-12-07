@@ -16,7 +16,7 @@ So when I managed to put my hands on a copy of **Indiana Jones and the Last Crus
 One hour later I was totally hooked by the game. It was 1989. **The Secret of Monkey Island** was months away.
 
 I won't dig deeper into memories (and save you yet another nostalgic blurb), but it suffices to say that I eventually became a developer with the dream of creating my own AG.  
-Too bad development is not all you need to create a great game. Fast forward 7... no, 17... er... 27 **\°o°/** years and here I am driving a web-development firm. Which of course has nothing to do with game development.
+Too bad development ain't all you need to create a great game. Fast forward 7... no, 17... er... 27 **\°o°/** years and here I am driving a web-development firm. Which of course has nothing to do with game development.
 
 But.
 
@@ -45,6 +45,6 @@ Thinks of this more as a **process journal**. We'll try to post here all the kno
 The goal is to create a solid knowledge base for everybody who wants to make an AG and has no idea where to start. We are not pros, nor experts so it's easy this journal will end up being a pile of crap, from a professional game-designer point of view.
 
 Still that's what we have to offer: our experience. We are taking a lot of fun in the process and we hope you'll be encouraged to take the same fun too! We look forward for a new AGs golden age (which is sort of coming, somehow), so take this as our contribution to our very hopes.  
-Should our brainchild never see the light of day, we'd be delighted if someone else will produce an amusing game, mused by the content of this blog.
+Should our brainchild never see the light of day, we'd be delighted if someone else will produce a great game, mused by the content of this blog.
 
 Stay tuned! :)
