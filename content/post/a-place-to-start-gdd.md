@@ -23,7 +23,7 @@ First: the output is not a finished game, but instead a description of it. In my
 Second: we thought that working with a GDD as our expected outcome could help us doing this side project one step at a time. The GDD would act as a sort of guideline, forcing a sustainable pace.
 You probably know this: work, family, and life in general, leaves you with little time for your stuff, so we found it was important to focus on a process that could give us small steps and frequent rewards.
 
-**If you are an 10pm warrior like us, don't underestimate the need to get rewarded and take fun off your project, or you will risk to eventually lose interest in it.**
+**If you are a 10pm warrior, like us, you probably agree on how important it is to get rewarded and take fun off your project, or you will risk to eventually lose interest in it.** 
 
 Third: The idea of a GDD helps us a lot to focus on the value of what we are doing, because beside the work for yourself, it forces you to answer a perpetual question: is the structure of what I'm writing here clear enough for a reader? Am I giving something for granted?
 We gave ourselves a rough list of steps to start with, some points that we thought would be essential to understand the big picure of the game, using this question as a guideline. So far is working quite well.
@@ -32,7 +32,7 @@ We gave ourselves a rough list of steps to start with, some points that we thoug
 
 Fourth: a GDD it is a good starting point for the future. Let's say you decide to take your project to the next step, and find a company to develop it; the GDD - even though it is clearly not the tool to _sell_ your idea - is, in my opinion, a great tool to describe your game and it highlights the fact you have actually designed it, and took it seriously as a project.
 
-**A good design talks about your love for your project. A GDD can shout it out loud.**
+**A good design talks about your love for your project. The GDD is what we think can shout it out loud.**
 
 
 ## What we are writing in our GDD
